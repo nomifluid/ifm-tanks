@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tanks-simple", "tanks-simple\tanks-simple.csproj", "{B854D0FC-9B80-4635-801C-B0D1F602D2CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B854D0FC-9B80-4635-801C-B0D1F602D2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B854D0FC-9B80-4635-801C-B0D1F602D2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B854D0FC-9B80-4635-801C-B0D1F602D2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B854D0FC-9B80-4635-801C-B0D1F602D2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B903D10D-481E-4733-8DF4-7B23B9584375}
+	EndGlobalSection
+EndGlobal

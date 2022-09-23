@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B854D0FC-9B80-4635-801C-B0D1F602D2CA}|Default">
+  <MonoDevelop.Ide.ItemProperties.tanks-simple PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tanks-simple/OutputBuilder.cs">
+    <Files>
+      <File FileName="tanks-simple/Program.cs" Line="146" Column="27" />
+      <File FileName="tanks-simple/Tank.cs" Line="19" Column="1" />
+      <File FileName="tanks-simple/TankFiller.cs" Line="8" Column="1" />
+      <File FileName="tanks-simple/OutputBuilder.cs" Line="16" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tanks-simple" expanded="True">
+            <Node name="tanks-simple" expanded="True">
+              <Node name="OutputBuilder.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
